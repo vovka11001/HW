@@ -18,9 +18,9 @@ class Platoon
         _soldiers1.Add(new Soldier("Борис"));
         _soldiers1.Add(new Soldier("Дима"));
         _soldiers2.Add(new Soldier("Олег"));
-        _soldiers2.Add(new Soldier("Ваня"));
-        _soldiers2.Add(new Soldier("Арсентий"));
-        _soldiers2.Add(new Soldier("Арсентий"));
+        _soldiers2.Add(new Soldier("Олег"));
+        _soldiers2.Add(new Soldier("Олег"));
+        _soldiers2.Add(new Soldier("Олег"));
     }
 
     public void Work()
