@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/bin/Debug/net10.0/дз перевод бойцов
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/bin/Debug/net10.0/дз перевод бойцов.deps.json
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/bin/Debug/net10.0/дз перевод бойцов.runtimeconfig.json
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/bin/Debug/net10.0/дз перевод бойцов.dll
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/bin/Debug/net10.0/дз перевод бойцов.pdb
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.AssemblyInfo.cs
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.dll
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/refint/дз перевод бойцов.dll
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.pdb
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/дз перевод бойцов.genruntimeconfig.cache
+/Users/mac/RiderProjects/дз перевод бойцов/дз перевод бойцов/obj/Debug/net10.0/ref/дз перевод бойцов.dll
